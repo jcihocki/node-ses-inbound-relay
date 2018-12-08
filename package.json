@@ -1,0 +1,14 @@
+{
+  "name": "ses-inbound-relay",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./sample-poll-loop.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.373.0",
+    "debug": "~2.6.9",
+    "node-persist": "^3.0.1",
+    "nodemailer": "^4.7.0"
+  }
+}
