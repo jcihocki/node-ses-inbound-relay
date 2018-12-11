@@ -46,7 +46,7 @@ You'll need to run the relay as an IAM user that has access to: read and delete 
 
 ### Installing
 
-[https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-credentials-node.html](Configure your AWS IAM user on the host that will be running node)
+[Configure your AWS IAM user on the host that will be running node](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-credentials-node.html)
 
 Perhaps I'll package this as a npm module after it's been performing acceptably in production for a while, but for now...
 
